@@ -1,5 +1,5 @@
 === Affiliates Manager Google reCAPTCHA Integration ===
-Contributors: wp.insider, wpaffiliatemgr
+Contributors: wp.insider, affmngr
 Donate link: https://wpaffiliatemanager.com/
 Tags: affiliate, affiliates, affiliates manager, google, captcha, recaptcha
 Requires at least: 3.8

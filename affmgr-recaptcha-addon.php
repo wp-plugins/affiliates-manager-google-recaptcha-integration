@@ -4,7 +4,7 @@
  * Plugin URI: https://wpaffiliatemanager.com/affiliates-manager-google-recaptcha-integration/
  * Description: This Addon allows you to add Google reCAPTCHA to your affiliate registration form
  * Version: 1.0
- * Author: wp.insider
+ * Author: wp.insider, affmngr
  * Author URI: https://wpaffiliatemanager.com
  * Requires at least: 3.0
  */
